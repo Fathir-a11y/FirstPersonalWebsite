@@ -1,0 +1,20 @@
+img {
+    border-radius: 50%;
+}
+
+body {
+    background-color: azure;
+    color: darkslategrey;
+    font-size: 16px;
+    font-weight:300;
+    text-align: center;
+    margin-top: 2px;
+
+}
+
+ol {
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+}

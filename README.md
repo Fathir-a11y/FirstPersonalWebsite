@@ -6,6 +6,6 @@ A simple personal website hosted on GitHub Pages.
 
 ## Features
 - Simple HTML website
-- MIT License
+- BSD License (It's 1000% free!)
 - Hosted on GitHub Pages
 
